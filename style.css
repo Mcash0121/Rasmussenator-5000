@@ -72,12 +72,15 @@ img {
   padding: 14px 40px;
   font-size: 16px;
   cursor: pointer;
+  outline: auto black;
 }
 
 .btn:active {
   transform: scale(0.98);
+  outline: auto black;
 }
 
 .btn:focus {
   outline: 0;
+  outline: auto black;
 }
